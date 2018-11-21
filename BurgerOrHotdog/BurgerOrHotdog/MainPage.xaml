@@ -12,6 +12,7 @@
         <Label
             FontSize="17"
             HorizontalOptions="Center"
+            HorizontalTextAlignment="Center"
             Text="{Binding PredictionText}"
             TextColor="Red"
             VerticalOptions="Center" />
